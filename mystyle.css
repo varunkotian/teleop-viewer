@@ -3,19 +3,19 @@ webrtc-video-device video {
 }
 webrtc-video-device .webrtc-video0 {
   width: 1600px;
-  height: 900px;
+  height: 970px;
   top: 0px;
-  left: 1700px;
+  left: 2000px;
 }
 webrtc-video-device .webrtc-video1 {
   width: 1600px;
-  height: 900px;
+  height: 970px;
   top: 0px;
-  left: 3400px;
+  left: 4000px;
 }
 webrtc-video-device .webrtc-video2 {
   width: 1600px;
-  height: 900px;
+  height: 970px;
   top: 0px;
   left: 0px;
 }
