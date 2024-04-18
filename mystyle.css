@@ -2,20 +2,20 @@ webrtc-video-device video {
   position: absolute;
 }
 webrtc-video-device .webrtc-video0 {
-  width: 960px;
-  height: 720px;
+  width: 1600px;
+  height: 900px;
   top: 0px;
-  left: 1000px;
+  left: 1700px;
 }
 webrtc-video-device .webrtc-video1 {
-  width: 960px;
-  height: 720px;
+  width: 1600px;
+  height: 900px;
   top: 0px;
-  left: 2000px;
+  left: 3400px;
 }
 webrtc-video-device .webrtc-video2 {
-  width: 960px;
-  height: 720px;
+  width: 1600px;
+  height: 900px;
   top: 0px;
   left: 0px;
 }
