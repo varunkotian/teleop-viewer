@@ -1,0 +1,21 @@
+webrtc-video-device video {
+  position: absolute;
+}
+webrtc-video-device .webrtc-video0 {
+  width: 960px;
+  height: 720px;
+  top: 0px;
+  left: 1000px;
+}
+webrtc-video-device .webrtc-video1 {
+  width: 960px;
+  height: 720px;
+  top: 0px;
+  left: 2000px;
+}
+webrtc-video-device .webrtc-video2 {
+  width: 960px;
+  height: 720px;
+  top: 0px;
+  left: 0px;
+}
